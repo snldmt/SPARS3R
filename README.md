@@ -24,7 +24,7 @@
 Code to be released soon.
 
 ## Method Overview
-![](assets/pipeline.pdf)
+![](assets/pipeline.png)
 Recent efforts in Gaussian-Splat-based Novel View Synthesis can achieve photorealistic rendering; however, such capability is limited in sparse-view scenarios due to sparse
 initialization and over-fitting floaters. Recent progress in
 depth estimation and alignment can provide dense point
