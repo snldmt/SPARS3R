@@ -2,7 +2,7 @@
 import os
 import numpy as np
 from colmap_read_write_model import qvec2rotmat, Image, Camera
-from wrivalib_utils import procrustes, transform_colmap_model, store_transformed, store_transformed_roma
+from utils.transform_utils import procrustes, transform_colmap_model, store_transformed, store_transformed_roma
 from numba import njit
 from numba_reduce import np_std_along_axis
 from utils.utils_poses.align_traj import align_ate_c2b_use_a2b
