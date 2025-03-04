@@ -3,6 +3,7 @@
   <h1 align="center">
   SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction
   <br>
+  <small> CVPR 2025 </small>
   
   </h1>
   <p align="center">
