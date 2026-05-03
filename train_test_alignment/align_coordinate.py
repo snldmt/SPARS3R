@@ -23,7 +23,7 @@ from robust_coordinate_system_alignment_orig import (
     colmap_image_to_extrinsics_c2w,
     calculate_rotation_error
 )
-from utils.utils_poses.ATE import compute_rpe, compute_ATE
+from utils.utils_poses.compute_ate import compute_rpe, compute_ATE
 
 
 def align_pose(pose1, pose2):
